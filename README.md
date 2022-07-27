@@ -1,5 +1,5 @@
-# Clone Netflix
+# Clone Instagram
 
-Esse é um projeto desenvolvido com ênfase na práticas de Flexbox, Responsividade, JQuery, ! Foi feito a interface da Netflix. 😁😁
+Esse é um projeto desenvolvido com ênfase na práticas de Flexbox, Responsividade ! Foi feito a tela de Login do Instagram. 😁😁
 
 ## 🚀 Let's code! 🚀
